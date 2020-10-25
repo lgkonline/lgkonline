@@ -1,4 +1,12 @@
+<img src="https://lib.lgk.io/logo-black.svg" width="64px" height="64px" alt="LGK Logo">
+
 ### Hi there 👋
+
+Glad that you found my GitHub profile. Here you can some great open source projects from me. But also a lot of crap, so keep that in mind. 😅
+
+If you would like to get daily posts about coding and designing, check out my Instgram account [@lars.codes](https://instagram.com/lars.codes) or me on Twitter: [@lgkonline](https://twitter.com/lgkonline)
+
+You should also checkout my portfolio site, where everything I do is a little bit nicer presented: [lgk.io](https://lgk.io)
 
 <!--
 **lgkonline/lgkonline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
